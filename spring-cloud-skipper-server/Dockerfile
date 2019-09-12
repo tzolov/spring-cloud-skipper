@@ -1,4 +1,4 @@
-FROM springcloud/openjdk:latest
+FROM tzolov/openjdk-arm
 
 ARG JAR_FILE
 
